@@ -1,6 +1,0 @@
-#this will conflict of local branch
-check file one crated s=4
-s=5
-@@updatefrom qateam 
-s=10
-
